@@ -1,14 +1,9 @@
 import './App.css'
+import Body from './components/Body';
 import './index.css'
 function App() {
   return (
-    <>
-    <div>
-      Netflix-GPT
-    </div>
-    
-      
-    </>
+    <Body />
   )
 }
 
