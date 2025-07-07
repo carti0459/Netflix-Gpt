@@ -5,9 +5,12 @@ export const USER_AVATAR =
   "https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg";
 
 export const API_OPTIONS = {
-  method: 'GET',
+  method: "GET",
   headers: {
-    accept: 'application/json',
-    Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzQxYWU4YWRjY2Y0MWY2ZTJiMGJhMTc5OTU1MzUxOSIsIm5iZiI6MTc1MTQ4MDQyMy4zOTMsInN1YiI6IjY4NjU3ODY3NzlkNDc3NTA4MjljMmIzMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RGhIGrdxnjrIXyKRq7AvoPVXHOjoSP4ykHdDitsbPeU'
-  }
+    accept: "application/json",
+    Authorization:
+      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzQxYWU4YWRjY2Y0MWY2ZTJiMGJhMTc5OTU1MzUxOSIsIm5iZiI6MTc1MTQ4MDQyMy4zOTMsInN1YiI6IjY4NjU3ODY3NzlkNDc3NTA4MjljMmIzMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RGhIGrdxnjrIXyKRq7AvoPVXHOjoSP4ykHdDitsbPeU",
+  },
 };
+
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";
