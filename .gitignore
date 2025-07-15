@@ -22,4 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-constants.js # Sensitive files
+
+src/utils/constants.js
