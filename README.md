@@ -62,7 +62,7 @@ Before you begin, ensure you have the following installed:
    
    Create a `.env` file in the root directory a sample env file is also given and add your API keys:
    ```env
-   VITE_GEMINI_API_KEY=your_openai_api_key_here
+   VITE_GEMINI_API_KEY=your_geminiai_api_key_here
    ```
 
 4. **Start the development server**
